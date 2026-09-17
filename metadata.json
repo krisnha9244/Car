@@ -1,0 +1,6 @@
+{
+  "name": "Car Racing",
+  "description": "A full-screen, high-performance HTML car racing game with arcade controls, obstacle dodging, and coin collecting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
